@@ -57,9 +57,8 @@ The model successfully captures several key characteristics of Monet's style:
 3. Introduction of brush stroke-like textures
 4. Impressionistic rendering of scenes
 
-### Kaggle Score
 
-The model achieved a MiFID score of [Insert your score here] on the competition leaderboard.
+
 
 ## Repository Structure
 
